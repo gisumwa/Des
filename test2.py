@@ -1,3 +1,3 @@
 print("I have edited you bana")
-def edit(good):
-    return good
+def edit(mum):
+    return mum
